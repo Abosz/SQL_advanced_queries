@@ -1,5 +1,7 @@
 # SQL_advanced_queries
-Advanced SQL statements and EDA.
+Advanced SQL state
+
+I have used https://sqliteonline.com/ for importing and combining each table.
 
 With this analysis I want to answer several questions about Apple Store apps:
 1. What is max, min and avg ratings?
